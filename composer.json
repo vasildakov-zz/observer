@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "EventManager\\": "src/EventManager/"
+            "Domain\\": "src/Domain/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "EventManagerTest\\": "test/EventManagerTest/"
+            "DomainTest\\": "test/DomainTest/"
         }
     }
 }
